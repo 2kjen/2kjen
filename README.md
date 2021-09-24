@@ -37,17 +37,15 @@ Here are some ideas to get you started:
 <!-- Who am I and What Brings Me Here -->
 <div>
     <h1 align="center">Who are you, 2kJen, and what brings you to GitHub?</h1>
-    <div align="right">
-      <img src="/assets/black_woman_laptop.png" alt="woman using laptop" width="325" height="382"/>
-      <p>Image by <a href="https://commons.wikimedia.org/wiki/User:Vectortoons">Vectortoon</a></p>
-    </div>
-    <div align="left">
-      <p> 👩🏾‍🎓 I am a recent Law graduate! </p>
-      <p> 👩🏿‍💻 However, I would like to build a career in Tech! </p>
-      <p> 🎨 I know a bit of HTML and CSS from playing around with it over the years, but I would like to brush up on it!</p>
-      <p> 🐍 I am currently teaching myself Python! </p>
-      <p> 🖥 In the near future, I would like to familiarise myself with Computer Science concepts using <a href="https://teachyourselfcs.com/">Teach Yourself Computer Science<a/>!</p>
-    </div>
+    <img src="/assets/black_woman_laptop.png" alt="woman using laptop" width="325" height="382" align="right"/>
+    <p> 👩🏾‍🎓 I am a recent Law graduate! </p>
+    <p> 👩🏿‍💻 However, I would like to build a career in Tech! </p>
+    <p> 🎨 I know a bit of HTML and CSS from playing around with it over the years, but I would like to brush up on it!</p>
+    <p> 🐍 I am currently teaching myself Python! </p>
+    <p> 🖥 In the near future, I would like to familiarise myself with Computer Science concepts using <a href="https://teachyourselfcs.com/">Teach Yourself Computer Science<a/>!</p>
+    <br>
+    <br>
+    <p align="right">Image by <a href="https://commons.wikimedia.org/wiki/User:Vectortoons">Vectortoon</a> ➡ </p>
 </div>
 
 <!-- Last Updated -->
