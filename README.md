@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <div align="center">
     <br>
     <br>
+    ![](/assets/helloworld_glitter.gif)
+    *Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a>*
     <figure>
       <img src="/assets/helloworld_glitter.gif"/>
       <figcaption>Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></figcaption>
