@@ -31,17 +31,16 @@ Here are some ideas to get you started:
 
 <!-- Introducing myself -->
 <div align="center">
-    # Welcome to my GitHub profile!
+    <h1>Welcome to my GitHub profile!</h1>
     <br>
-    ### My name is Jennifer and I'm from London, UK!
+    <h3>My name is Jennifer and I'm from London, UK!</h3>
     <br>
     <br>
 </div>
 
 <!-- Why I'm Here -->
 <div>
-    <figure align="right">
-        <img src="/assets/black_woman_laptop.png"
+    <img src="/assets/black_woman_laptop.png"/>
         <figcaption> Image by <a href="https://commons.wikimedia.org/wikiFile:Cartoon_Black_Woman_Using_A_Laptop_At_Home.svg">Vectortoon</a><figcaption>
     </figure>
     <p> 👩🏾‍🎓 I am a recent Law graduate! </p>
