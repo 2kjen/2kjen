@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     <br>
     <br>
     <img src="/assets/helloworld_glitter.gif"/>
-    <p style="font-size: 8px">Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></p>
+    <p style="font-size:2px">Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></p>
     <br>
     <br>
 </div>
