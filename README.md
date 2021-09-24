@@ -19,12 +19,8 @@ Here are some ideas to get you started:
 <div align="center">
     <br>
     <br>
-    ![](/assets/helloworld_glitter.gif)
-    *Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a>*
-    <figure>
-      <img src="/assets/helloworld_glitter.gif"/>
-      <figcaption>Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></figcaption>
-    </figure>
+    <img src="/assets/helloworld_glitter.gif"/>
+    <p style="font-size: 8px">Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></p>
     <br>
     <br>
 </div>
@@ -47,4 +43,9 @@ Here are some ideas to get you started:
     <p> 👩🏿‍💻 However, I would like to go into Tech. </p>
     <p> 🎨 I know a bit of HTML and CSS from playing around with it over the years, but I would like to brush up on it!</p>
     <p> 🐍 I am currently teaching myself Python! </p>
+</div>
+
+<!-- Last Updated -->
+<div align="center">
+    <p> Last updated on Friday 24<sup>th</sup> September 2021 </p>
 </div>
