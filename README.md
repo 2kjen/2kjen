@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div align="center">
     <br>
     <br>
-    <img src="/assets/helloworld_glitter.gif"/>
+    <img src="/assets/helloworld_glitter.gif"/ alt="'Hello, World!'">
     <p> Made with <a href="https://picasion.com/glitter-maker/">Picasion's Glitter Maker</a></font></p>
     <br>
     <br>
@@ -34,14 +34,18 @@ Here are some ideas to get you started:
     <br>
 </div>
 
-<!-- Why I'm Here -->
+<!-- Who am I and What Brings Me Here -->
 <div>
-    <img src="/assets/black_woman_laptop.png"/ align="right">
-    <p align="right">Image by <a href="https://commons.wikimedia.org/wikiFile:Cartoon_Black_Woman_Using_A_Laptop_At_Home.svg">Vectortoon</a></p>
+    <h1 align="center">Who are you, 2kJen, and what brings you to GitHub?</h1>
+    <div align="right">
+      <img src="/assets/black_woman_laptop.png" alt="woman using laptop" width="325" height="382"/>
+      <p>Image by <a href="https://commons.wikimedia.org/wiki/User:Vectortoons">Vectortoon</a></p>
+    </div>
     <p> 👩🏾‍🎓 I am a recent Law graduate! </p>
-    <p> 👩🏿‍💻 However, I would like to go into Tech. </p>
+    <p> 👩🏿‍💻 However, I would like to build a career in Tech! </p>
     <p> 🎨 I know a bit of HTML and CSS from playing around with it over the years, but I would like to brush up on it!</p>
     <p> 🐍 I am currently teaching myself Python! </p>
+    <p> 🖥 In the near future, I would like to familiarise myself with Computer Science concepts using <a href="https://teachyourselfcs.com/">Teach Yourself Computer Science<a/>!</p>
 </div>
 
 <!-- Last Updated -->
