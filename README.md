@@ -18,8 +18,8 @@
 <!-- Who am I and What Brings Me Here -->
 <div>
     <h1 align="center">Who are you, 2kJen, and what brings you to GitHub?</h1>
-    <br>
     <img src="/assets/black_woman_laptop.png" alt="woman using laptop" width="325" height="382" align="right"/>
+    <br>
     <p> 👩🏾‍🎓 I am a recent Law graduate! </p>
     <p> 👩🏿‍💻 However, I would like to build a career in Tech! </p>
     <p> 🎨 I know a bit of HTML and CSS from playing around with it over the years, but I would like to brush up on it!</p>
